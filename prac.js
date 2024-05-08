@@ -1,4 +1,4 @@
-
+  
 class Jedi {
     constructor(name) {
       this.forceIsDark = false;
